@@ -6,7 +6,9 @@ public class Main {
 		int n1 =0;
 		int n2=3;
 		int soma = Soma(n1,n2);
-		System.out.println("soma : " + soma);		
+		int multiplicao=0;
+		System.out.println("soma : " + soma);
+		System.out.println("x" + multiplicao);
 	}
 
 	public static int Soma(int n1, int n2) {//absdlbasd
